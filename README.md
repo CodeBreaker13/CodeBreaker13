@@ -1,6 +1,6 @@
 ## Hello there 👋 Hope you guys are well ☕
 
-<h1 align="center">Hi 👋, I'm Gourav Ved</h1>
+<h1 align="center"> I'm Gourav Ved</h1>
 
 <h3 align="center">
 Competitive Programming | Full Stack Web 
@@ -10,7 +10,9 @@ Competitive Programming | Full Stack Web
 
 ## 💻 Competitive Programming
 - 🚀 Active on Codeforces & LeetCode  
-- 💡 Exploring through DSA & Problem Solving. 
+- 💡 Exploring through Data Structures & Algorithms.
+
+- Practising on many platforms.
 
 <p align="center">
   <a href="https://codeforces.com/">
@@ -34,7 +36,7 @@ Competitive Programming | Full Stack Web
 ## 📌 What I Do
 - ⚡ Competitive Programming (Codeforces, LeetCode)
 - 🌐 Full Stack Web Development (MERN)
-- 🧠 Focused on clean code & performance
+- 🧠 Focused on efficient code and working on tackling the problems in the real world. 
 
 ---
 
@@ -42,6 +44,7 @@ Competitive Programming | Full Stack Web
 - Advanced React
 - Backend Optimization
 - System Design Basics
+- Scalibility & backend Architectures
 
 
 <!--
