@@ -17,9 +17,7 @@ ICE'28 | NSUT • Competitive Programming • Full Stack Web
 🔗 **LeetCode Profile:**  
 👉 https://leetcode.com/u/codebreaker1328/
 
-🔗 **Codeforces Profile:** 
-👉 https://codeforces.com/profile/codebreaker13
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=codebreaker13" />
+
 
 <p align="center">
   <a href="https://codeforces.com/profile/your_username">
@@ -34,6 +32,10 @@ ICE'28 | NSUT • Competitive Programming • Full Stack Web
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/codebreaker1328?theme=dark&font=Karma&ext=heatmap" />
 </p>
+
+🔗 **Codeforces Profile:** 
+👉 https://codeforces.com/profile/codebreaker13
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=codebreaker13" />
 
 ---
 
