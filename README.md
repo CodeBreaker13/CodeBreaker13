@@ -17,6 +17,9 @@ ICE'28 | NSUT • Competitive Programming • Full Stack Web
 🔗 **LeetCode Profile:**  
 👉 https://leetcode.com/u/codebreaker1328/
 
+🔗 **Codeforces Profile:** 
+👉 https://codeforces.com/profile/codebreaker13
+
 <p align="center">
   <a href="https://codeforces.com/profile/your_username">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
