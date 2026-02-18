@@ -3,7 +3,7 @@
 <h1 align="center"> I'm Gourav Ved</h1>
 
 <h3 align="center">
-Competitive Programming | Full Stack Web 
+ICE'28 NSUT | Competitive Programming | Full Stack Web 
 </h3>
 
 ---
