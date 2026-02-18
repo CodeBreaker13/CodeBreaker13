@@ -19,6 +19,7 @@ ICE'28 | NSUT • Competitive Programming • Full Stack Web
 
 🔗 **Codeforces Profile:** 
 👉 https://codeforces.com/profile/codebreaker13
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=codebreaker13" />
 
 <p align="center">
   <a href="https://codeforces.com/profile/your_username">
