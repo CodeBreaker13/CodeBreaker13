@@ -12,7 +12,13 @@ ICE'28 | NSUT • Competitive Programming • Full Stack Web
 
 - 🚀 Active on **LeetCode** & **Codeforces**
 - 🧠 Strong focus on **Data Structures & Algorithms**
-- 🔁 Regular problem solving to improve logic, speed, and accuracy  
+- 🔁 Regular problem solving to improve logic, speed, and accuracy
+
+- 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,gitlab,cpp,python,postman" />
+</p>
 
 🔗 **LeetCode Profile:**  
 👉 https://leetcode.com/u/codebreaker1328/
@@ -28,11 +34,7 @@ ICE'28 | NSUT • Competitive Programming • Full Stack Web
   </a>
 </p>
 
-🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,gitlab,cpp,python,postman" />
-</p>
 <!-- Optional LeetCode stats card -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/codebreaker1328?theme=dark&font=Karma&ext=heatmap" />
