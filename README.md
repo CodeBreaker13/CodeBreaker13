@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:A855F7,100:6366F1&height=150&section=header&text=Gourav%20Ved&fontSize=55&fontColor=ffffff&animation=blinking&desc=Building%20Real%20Systems%20from%20Scratch&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%"/>
 </div>
 
 <!-- Typing Header -->
