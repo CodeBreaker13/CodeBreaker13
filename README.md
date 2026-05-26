@@ -111,5 +111,10 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBreaker13&layout=compact&theme=tokyonight&hide_border=true" width="495"/>
+</div>
+
+---
 
 
