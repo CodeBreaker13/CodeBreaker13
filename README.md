@@ -42,7 +42,7 @@
 
 ### 💻 Languages
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
 </div>
 
 ### 🌐 Frontend
