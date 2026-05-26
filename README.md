@@ -105,8 +105,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gourav_Ved-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-ved-49a17731a/)
 [![Gmail](https://img.shields.io/badge/Gmail-vedgourav1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedgourav1@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-codebreaker1328-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/codebreaker1328/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-codebreaker13-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/codebreaker13)
+[![X](https://img.shields.io/badge/X-ved__gourav18344-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ved_gourav18344)
+[![Instagram](https://img.shields.io/badge/Instagram-gourav.ved13__28-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gourav.ved13_28/)
 
 </div>
 
