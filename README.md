@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=200&section=header&text=Gourav%20Ved&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DSA%20%7C%20Full%20Stack%20%7C%20NSUT%20Delhi&descAlignY=55&descSize=18" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:A855F7,100:6366F1&height=150&section=header&text=Gourav%20Ved&fontSize=55&fontColor=ffffff&animation=blinking&desc=Building%20Real%20Systems%20from%20Scratch&descAlignY=62&descSize=16" width="100%"/>
 </div>
 
 <!-- Typing Header -->
