@@ -112,8 +112,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeBreaker13&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <br/><br/>
-  <i>"Any problem can be solved with a bit of logic and a lot of code."</i>
-</div>
+
