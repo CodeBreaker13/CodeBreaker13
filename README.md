@@ -82,6 +82,9 @@
 <div align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=codebreaker13&theme=dark&hide_border=true&max_problems=8" width="495"/>
 </div>
+<div align="center">
+  <img src="https://cf-stats.vercel.app/api/card?username=codebreaker13&theme=dark" width="495"/>
+</div>
 ---
 
 ## 📊 GitHub Stats
