@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <div align="center">
- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=200&section=header&text=Gourav%20Ved&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DSA%20%7C%20Full%20Stack%20%7C%20NSUT%20Delhi&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing Header -->
