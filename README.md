@@ -112,8 +112,7 @@
 </div>
 
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=CodeBreaker13&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats-eight-cyan.vercel.app/api/top-langs/?username=CodeBreaker13&layout=donut&theme=tokyonight&hide_border=true)
 ---
 
 
