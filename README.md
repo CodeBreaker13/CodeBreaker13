@@ -96,7 +96,7 @@
 </div>
 
 ---
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBreaker13&layout=compact&theme=tokyonight)
 
 
 ---
