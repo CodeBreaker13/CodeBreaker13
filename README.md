@@ -32,7 +32,7 @@
 
 > Real-time network traffic simulator built with **pure DSA** — a hand-rolled Max-Heap Priority Queue doing actual O(log n) work. No libraries. No shortcuts.
 
-**Max-Heap · Tail-Drop Policy · Rate Limiter · React 18 · Tailwind CSS**
+**Max-Heap Priority Queue · Tail-Drop Policy · Rate Limiter · React 18 · Tailwind CSS**
 
 </div>
 
